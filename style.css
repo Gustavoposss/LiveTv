@@ -1,5 +1,5 @@
     html, body {
-      display: flexbox;
+      display: flex;
       background-color: black;
       height: 80%;
       width: 80%;
